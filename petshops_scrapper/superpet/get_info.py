@@ -16,7 +16,7 @@ for type_product in data_products_id:
     type_objetivo = type_product.get("tipo", "")
     category = type_product.get("text", "")
     # print(ids_products)
-    for _id in tqdm(ids_products[:20]):
+    for _id in tqdm(ids_products):
         try:
             product_json_requests = requests.get(PRODUCT_VIEW.format(pid=_id)).json()
             product = product_json_requests.get("product")
