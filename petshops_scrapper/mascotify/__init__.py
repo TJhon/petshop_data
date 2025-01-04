@@ -1,1 +1,1 @@
-import requests
+from .get_menus import MascotifyMenu
