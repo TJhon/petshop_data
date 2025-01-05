@@ -6,10 +6,6 @@ Aquí tienes una versión mejorada de tu README:
 
 # petshop_data
 
-## Descripción
-
-`petshop_data` es una herramienta diseñada para extraer información de productos de páginas web de tiendas de mascotas. Este script permite obtener tanto información general (como enlaces y nombres de productos) como detalles específicos de cada producto, utilizando procesamiento paralelo para optimizar el tiempo de ejecución.
-
 ## Requisitos
 
 - **Python** >= 3.12
@@ -40,13 +36,9 @@ Dentro del archivo `main.py`, hay dos constantes clave para personalizar el comp
     - Si está en `False`, extrae información general de las páginas web (como enlaces y nombres) y actualiza la lista de productos.  
     - **Recomendación:** Cambiar a `False` cada dos días para mantener la lista actualizada.
 
-- **`TOTAL_WORKERS`**  
-  - **Valor por defecto:** `30`  
-  - **Propósito:** Define el número de procesos paralelos utilizados para extraer detalles de los productos.  
-  - **Recomendación:** Ajustar según el poder de cómputo disponible:  
-    - Valores altos: Mayor velocidad, pero mayor consumo de recursos.  
-    - Buena velocidad de internet para valores altos
-    - Valores bajos: Menor velocidad, pero más amigable para equipos con recursos limitados.
+- **`WORKERS_PER_COMPANY`**  
+  - **Propósito:** Define el número de procesos paralelos utilizados para extraer detalles de los productos, para cada empresa.
+  - **Recomendación:** No incrementar mucho los números si se requiere los datos más rapido. Ya que demasiadas peticiones hace que la pagina bloquee la IP, haciendo imposible obtener más datos y en algunos casos haciendo caer la página.
 
 ## Uso
 
@@ -62,7 +54,6 @@ Dentro del archivo `main.py`, hay dos constantes clave para personalizar el comp
 ## Notas
 
 - Es importante actualizar regularmente la lista de productos (cambiando `RUN_LOCAL_EXISTING_PRODUCTS` a `False`) para garantizar que se incluyan nuevos productos añadidos a las páginas web.  
-- Asegúrate de que el número de `TOTAL_WORKERS` configurado sea adecuado para el hardware disponible para evitar sobrecargar el sistema.
 
 
 
