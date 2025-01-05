@@ -3,10 +3,10 @@ import json
 from ..utils import clean_text, clean_numbers, get_soup
 
 
-def information_product(url) -> dict:
-    soup = get_soup(url)
+def information_product(url, **kwargs) -> dict:
+        soup = get_soup(url)
 
-    try:
+    # try:
         category_nav = soup.find("nav", id="breadcrumbs")
         if category_nav:
             categories = category_nav.find_all("a")
@@ -43,9 +43,14 @@ def information_product(url) -> dict:
         if variation_data:
             variation_json = variation_data.get("data-product_variations")
             variations = json.loads(variation_json)
+            # return variations
 
             for variation in variations:
-                qnt_i = variation["attributes"]["attribute_pa_presentacion"]
+                qnt_i = ""
+                var = variation["attributes"]
+                keys_var_presentation = list(var.keys())
+                for presentation in keys_var_presentation:
+                     qnt_i = var.get(presentation)
                 qnts.append(qnt_i)
                 price = variation["display_price"]
                 prices.append(price)
@@ -72,5 +77,5 @@ def information_product(url) -> dict:
             ),
             "href": url,
         }
-    except Exception:
-        pass
+    # except Exception:
+    #     pass

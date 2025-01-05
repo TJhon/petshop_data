@@ -38,11 +38,11 @@ def information_product(_id, type=None, category=None):
             brand = marca,
             actual_price = price_sale,
             last_price = price_last,
-            min_price = price_min,
-            max_price = price_max,
-            variation_qnt = variation_qnt,
+            price_min = price_min,
+            price_max = price_max,
+            range_qnts = variation_qnt,
             s_description = short_description,
-            long_description = long_description,
+            l_description = long_description,
             href = href,
             id = _id
         )

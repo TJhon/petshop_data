@@ -16,10 +16,10 @@ def information_product(url, category=None, type=None):
             brand = brand.find('img').get('title', None),
             product_name = product_name.get_text(),
             actual_price = clean_numbers(actual_price.get_text()),
-            description = description.get_text(),
+            s_description = description.get_text(),
         )
 
         return info_product
     except:
-        print(url)
-        pass
+        # print(url)
+        return{}
