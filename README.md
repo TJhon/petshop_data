@@ -8,6 +8,10 @@
 
 - **Python** >= 3.12
 - **Poetry** para la gestión de dependencias
+- **Git**: [Instalacion](https://www.youtube.com/watch?v=jdXKwLNUfmg)
+- **vscode**: 
+
+
 
 ## Instalación
 

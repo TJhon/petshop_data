@@ -23,6 +23,7 @@ os.makedirs("raw_data/", exist_ok=True)
 
 
 RUN_LOCAL_EXISTING_PRODUCTS = True
+
 MascotaVeloz(local=RUN_LOCAL_EXISTING_PRODUCTS)
 Mascotify(local=RUN_LOCAL_EXISTING_PRODUCTS)
 MisterPet(local=RUN_LOCAL_EXISTING_PRODUCTS)
