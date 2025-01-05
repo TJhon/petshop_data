@@ -46,8 +46,7 @@ class DataProcessor:
             df_exploded = df_exploded.drop(columns=[0])
         
         df_exploded["companny_name"] = name_key
-        # Todo: borrar limite
-        df_exploded = df_exploded.groupby('companny_name').sample(100)
+        # df_exploded = df_exploded.groupby('companny_name').sample(100)
         return df_exploded
 
     def process_row(self, row):
@@ -102,7 +101,7 @@ class DataProcessor:
                     except Exception as e:
                         print(f"Error procesando: {e}")
 
-            company_data_info = pd.DataFrame(results)
+            company_data_info = pd.DataFrame(results).drop_duplicates()
             company_file_path = f"./raw_data/{company}.xlsx"
             company_data_info.to_excel(company_file_path, index=False)
             print(f"Archivo guardado: {company_file_path}")
@@ -117,7 +116,7 @@ class DataProcessor:
         print("Todos los productos de las empresas guardado en: ./raw_data/0_products_ref.csv")
 
         data_info_list = self.process_dataframe_parallel(all_data)
-        data_info = pd.DataFrame(data_info_list)
+        data_info = pd.DataFrame(data_info_list).drop_duplicates()
 
         orden = [
             "companny_name", "type", "category", "brand", "product_name",
