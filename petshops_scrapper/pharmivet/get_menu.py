@@ -1,10 +1,7 @@
-import requests, re
-from bs4 import BeautifulSoup
-from rich import print
-from ..utils import save_array
-from tqdm import tqdm
 
-main = requests.get("https://pharmivet.pe/94-medicamentos")
+from ..utils import save_array
+
+
 menu_data = [
     {"type": "medicamentos", "href": "https://pharmivet.pe/94-medicamentos"},
     {"type": "alimentos", "href": "https://pharmivet.pe/95-alimentos"},
@@ -26,12 +23,7 @@ class PharmivetMenu:
         self.data = data
 
 
-# def clean_numbers(text: str) -> float:
-#     "Extrae el primer número como flotante."
-#     match = re.search(r"\d+(\.\d+)?", text)
-#     if match:
-#         return float(match.group())
-#     return None
+
 
 
 # class MenuProductsPhamivet:

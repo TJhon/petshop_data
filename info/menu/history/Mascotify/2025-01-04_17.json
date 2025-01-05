@@ -1,0 +1,252 @@
+[
+    {
+        "href": "https://mascotify.pe/perros/alimento/",
+        "category": "Alimento",
+        "type": "perros"
+    },
+    {
+        "href": "https://mascotify.pe/perros/alimento/alimento-seco/",
+        "category": "Alimento Seco",
+        "type": "perros"
+    },
+    {
+        "href": "https://mascotify.pe/perros/alimento/alimento-humedo/",
+        "category": "Alimento h\u00famedo",
+        "type": "perros"
+    },
+    {
+        "href": "https://mascotify.pe/perros/alimento/snacks/",
+        "category": "Snacks",
+        "type": "perros"
+    },
+    {
+        "href": "https://mascotify.pe/perros/alimento/leches-y-formulas/",
+        "category": "Leches y f\u00f3rmulas",
+        "type": "perros"
+    },
+    {
+        "href": "https://mascotify.pe/perros/cuidado-e-higiene/",
+        "category": "Cuidado e higiene",
+        "type": "perros"
+    },
+    {
+        "href": "https://mascotify.pe/perros/cuidado-e-higiene/antipulgas/",
+        "category": "Antipulgas",
+        "type": "perros"
+    },
+    {
+        "href": "https://mascotify.pe/perros/cuidado-e-higiene/panales-y-control-de-orina/",
+        "category": "Pa\u00f1ales y control de orina",
+        "type": "perros"
+    },
+    {
+        "href": "https://mascotify.pe/perros/cuidado-e-higiene/suplementos-y-vitaminas/",
+        "category": "Suplementos y vitaminas",
+        "type": "perros"
+    },
+    {
+        "href": "https://mascotify.pe/perros/cuidado-e-higiene/shampoo/",
+        "category": "Shampoo",
+        "type": "perros"
+    },
+    {
+        "href": "https://mascotify.pe/perros/cuidado-e-higiene/cuidado-oral/",
+        "category": "Cuidado oral",
+        "type": "perros"
+    },
+    {
+        "href": "https://mascotify.pe/perros/cuidado-e-higiene/colonias-y-perfumes/",
+        "category": "Colonias y perfumes",
+        "type": "perros"
+    },
+    {
+        "href": "https://mascotify.pe/perros/cuidado-e-higiene/cuidado-externo/",
+        "category": "Cuidado externo",
+        "type": "perros"
+    },
+    {
+        "href": "https://mascotify.pe/perros/cuidado-e-higiene/farmacos/",
+        "category": "F\u00e1rmacos",
+        "type": "perros"
+    },
+    {
+        "href": "https://mascotify.pe/perros/cuidado-e-higiene/panos-humedos/",
+        "category": "Pa\u00f1os h\u00famedos",
+        "type": "perros"
+    },
+    {
+        "href": "https://mascotify.pe/perros/cuidado-e-higiene/porta-bolsas-y-repuestos/",
+        "category": "Porta bolsas y repuestos",
+        "type": "perros"
+    },
+    {
+        "href": "https://mascotify.pe/perros/accesorios-y-otros/",
+        "category": "Accesorios y otros",
+        "type": "perros"
+    },
+    {
+        "href": "https://mascotify.pe/perros/accesorios-y-otros/collares-y-arneses/",
+        "category": "Collares y arneses",
+        "type": "perros"
+    },
+    {
+        "href": "https://mascotify.pe/perros/accesorios-y-otros/correas/",
+        "category": "Correas",
+        "type": "perros"
+    },
+    {
+        "href": "https://mascotify.pe/perros/accesorios-y-otros/juguetes/",
+        "category": "Juguetes",
+        "type": "perros"
+    },
+    {
+        "href": "https://mascotify.pe/perros/accesorios-y-otros/ropa/",
+        "category": "Ropa",
+        "type": "perros"
+    },
+    {
+        "href": "https://mascotify.pe/perros/accesorios-y-otros/camas/",
+        "category": "Camas",
+        "type": "perros"
+    },
+    {
+        "href": "https://mascotify.pe/perros/accesorios-y-otros/platos-bebederos/",
+        "category": "Platos y bebederos",
+        "type": "perros"
+    },
+    {
+        "href": "https://mascotify.pe/perros/accesorios-y-otros/cortadoras-peines-y-cepillos/",
+        "category": "Cortadoras, peines y cepillos",
+        "type": "perros"
+    },
+    {
+        "href": "https://mascotify.pe/perros/accesorios-y-otros/transportadores/",
+        "category": "Transportadores",
+        "type": "perros"
+    },
+    {
+        "href": "https://mascotify.pe/gatos/alimento-gatos/",
+        "category": "Alimento",
+        "type": "gatos"
+    },
+    {
+        "href": "https://mascotify.pe/gatos/alimento-gatos/alimento-seco-gatos/",
+        "category": "Alimento seco",
+        "type": "gatos"
+    },
+    {
+        "href": "https://mascotify.pe/gatos/alimento-gatos/alimento-humedo-gatos/",
+        "category": "Alimento h\u00famedo",
+        "type": "gatos"
+    },
+    {
+        "href": "https://mascotify.pe/gatos/alimento-gatos/snacks-alimento-gatos/",
+        "category": "Snacks",
+        "type": "gatos"
+    },
+    {
+        "href": "https://mascotify.pe/gatos/alimento-gatos/leches-y-formulas-gatos/",
+        "category": "Leches y f\u00f3rmulas",
+        "type": "gatos"
+    },
+    {
+        "href": "https://mascotify.pe/gatos/arena-y-cuidado/",
+        "category": "Arena y cuidado",
+        "type": "gatos"
+    },
+    {
+        "href": "https://mascotify.pe/gatos/arena-y-cuidado/arena/",
+        "category": "Arena",
+        "type": "gatos"
+    },
+    {
+        "href": "https://mascotify.pe/gatos/arena-y-cuidado/areneros-y-accesorios/",
+        "category": "Areneros y accesorios",
+        "type": "gatos"
+    },
+    {
+        "href": "https://mascotify.pe/gatos/arena-y-cuidado/antipulgas-gatos/",
+        "category": "Antipulgas",
+        "type": "gatos"
+    },
+    {
+        "href": "https://mascotify.pe/gatos/arena-y-cuidado/suplementos-y-vitaminas-gatos/",
+        "category": "Suplementos y vitaminas",
+        "type": "gatos"
+    },
+    {
+        "href": "https://mascotify.pe/gatos/arena-y-cuidado/cuidado-oral-gatos/",
+        "category": "Cuidado Oral",
+        "type": "gatos"
+    },
+    {
+        "href": "https://mascotify.pe/gatos/arena-y-cuidado/shampoo-gatos/",
+        "category": "Shampoo",
+        "type": "gatos"
+    },
+    {
+        "href": "https://mascotify.pe/gatos/arena-y-cuidado/farmacos-gatos/",
+        "category": "F\u00e1rmacos",
+        "type": "gatos"
+    },
+    {
+        "href": "https://mascotify.pe/gatos/arena-y-cuidado/panos-humedos-gatos/",
+        "category": "Pa\u00f1os h\u00famedos",
+        "type": "gatos"
+    },
+    {
+        "href": "https://mascotify.pe/gatos/arena-y-cuidado/cuidado-externo-arena-y-cuidado/",
+        "category": "Cuidado externo",
+        "type": "gatos"
+    },
+    {
+        "href": "https://mascotify.pe/gatos/accesorios-y-otros-gatos/",
+        "category": "Accesorios y otros",
+        "type": "gatos"
+    },
+    {
+        "href": "https://mascotify.pe/gatos/accesorios-y-otros-gatos/collares-y-arneses-gatos/",
+        "category": "Collares y arneses",
+        "type": "gatos"
+    },
+    {
+        "href": "https://mascotify.pe/gatos/accesorios-y-otros-gatos/juguetes-gatos/",
+        "category": "Juguetes",
+        "type": "gatos"
+    },
+    {
+        "href": "https://mascotify.pe/gatos/accesorios-y-otros-gatos/cortadoras-peines-y-cepillos-gatos/",
+        "category": "Cortadoras, peines y cepillos",
+        "type": "gatos"
+    },
+    {
+        "href": "https://mascotify.pe/gatos/accesorios-y-otros-gatos/platos-bebederos-gatos/",
+        "category": "Platos y bebederos",
+        "type": "gatos"
+    },
+    {
+        "href": "https://mascotify.pe/gatos/accesorios-y-otros-gatos/camas-gatos/",
+        "category": "Camas",
+        "type": "gatos"
+    },
+    {
+        "href": "https://mascotify.pe/gatos/accesorios-y-otros-gatos/transportadores-gatos/",
+        "category": "Transportadores",
+        "type": "gatos"
+    },
+    {
+        "href": "https://mascotify.pe/otros/hamsters/",
+        "category": "Hamsters",
+        "type": "otros"
+    },
+    {
+        "href": "https://mascotify.pe/otros/conejos/",
+        "category": "Conejos",
+        "type": "otros"
+    },
+    {
+        "href": "https://mascotify.pe/otros/aves/",
+        "category": "Aves",
+        "type": "otros"
+    }
+]

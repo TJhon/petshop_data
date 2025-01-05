@@ -1,0 +1,50 @@
+[
+    {
+        "type": "medicamentos",
+        "href": "https://pharmivet.pe/94-medicamentos"
+    },
+    {
+        "type": "alimentos",
+        "href": "https://pharmivet.pe/95-alimentos"
+    },
+    {
+        "type": "suplementos",
+        "href": "https://pharmivet.pe/96-suplementos"
+    },
+    {
+        "type": "antipulgas",
+        "href": "https://pharmivet.pe/97-antipulgas"
+    },
+    {
+        "type": "oculares",
+        "href": "https://pharmivet.pe/98-oculares"
+    },
+    {
+        "type": "cardiologicos",
+        "href": "https://pharmivet.pe/99-cardiologicos"
+    },
+    {
+        "type": "oticos",
+        "href": "https://pharmivet.pe/101-oticos"
+    },
+    {
+        "type": "higiene_cuidado",
+        "href": "https://pharmivet.pe/102-higiene-y-cuidado"
+    },
+    {
+        "type": "perros",
+        "href": "https://pharmivet.pe/136-perros"
+    },
+    {
+        "type": "gatos",
+        "href": "https://pharmivet.pe/137-gatos"
+    },
+    {
+        "type": "promocion",
+        "href": "https://pharmivet.pe/215-promocion"
+    },
+    {
+        "type": "ultimas_unidades",
+        "href": "https://pharmivet.pe/230-ultimas-unidades"
+    }
+]

@@ -73,4 +73,4 @@ def information_product(url) -> dict:
             "href": url,
         }
     except Exception:
-        return {}
+        pass

@@ -8,7 +8,7 @@ superpet_parse = parse.urlsplit(URL_SUPERPET)
 # main_content = requests.get(URL_SUPERPET)
 class SuperPetMenu:
     def __init__(self, url = URL_SUPERPET):
-        soup = get_soup(URL_SUPERPET)
+        soup = get_soup(url)
         self.soup = soup
         data = self.find_menu()
         self.data = data
@@ -37,6 +37,6 @@ class SuperPetMenu:
             _path = _url_split.path.split("/")
             if _url_split.netloc == superpet_parse.netloc and len(_path) > 2:
                 if _path[2] != "":
-                    menu_href["tipo"] = _path[1]
+                    menu_href["type"] = _path[1]
                     relevant_menu.append(menu_href)
         return relevant_menu

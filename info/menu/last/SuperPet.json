@@ -1,0 +1,77 @@
+[
+    {
+        "category": "Alimentos",
+        "href": "https://www.superpet.pe/perro/alimentos-y-snacks",
+        "type": "perro"
+    },
+    {
+        "category": "Salud e higiene",
+        "href": "https://www.superpet.pe/perro/salud-e-higiene",
+        "type": "perro"
+    },
+    {
+        "category": "Accesorios y otros",
+        "href": "https://www.superpet.pe/perro/accesorios-y-otros",
+        "type": "perro"
+    },
+    {
+        "category": "Alimentos",
+        "href": "https://www.superpet.pe/gato/alimentos-y-snacks",
+        "type": "gato"
+    },
+    {
+        "category": "Salud e Higiene",
+        "href": "https://www.superpet.pe/gato/salud-e-higiene",
+        "type": "gato"
+    },
+    {
+        "category": "Accesorios y otros",
+        "href": "https://www.superpet.pe/gato/accesorios",
+        "type": "gato"
+    },
+    {
+        "category": "Mascotas peque\u00f1as",
+        "href": "https://www.superpet.pe/otras-mascotas/mascotas-pequenas",
+        "type": "otras-mascotas"
+    },
+    {
+        "category": "Moda Diversi\u00f3n",
+        "href": "https://www.superpet.pe/otras-mascotas/mascotas-pequenas/moda-diversion",
+        "type": "otras-mascotas"
+    },
+    {
+        "category": "Problema soluci\u00f3n",
+        "href": "https://www.superpet.pe/otras-mascotas/mascotas-pequenas/problema-solucion",
+        "type": "otras-mascotas"
+    },
+    {
+        "category": "Super Fin de A\u00f1o",
+        "href": "https://www.superpet.pe/promociones/super-fin",
+        "type": "promociones"
+    },
+    {
+        "category": "Puppy \ud83d\udc36",
+        "href": "https://www.superpet.pe/promociones/puppy",
+        "type": "promociones"
+    },
+    {
+        "category": "Kitten \ud83d\udc31",
+        "href": "https://www.superpet.pe/promociones/kitten",
+        "type": "promociones"
+    },
+    {
+        "category": "Novedades \ud83d\udd25",
+        "href": "https://www.superpet.pe/promociones/novedades",
+        "type": "promociones"
+    },
+    {
+        "category": "Super Fin de A\u00f1o",
+        "href": "https://www.superpet.pe/promociones/super-fin",
+        "type": "promociones"
+    },
+    {
+        "category": "Liquidaci\u00f3n\u00a0",
+        "href": "https://www.superpet.pe/promociones/liquidacion",
+        "type": "promociones"
+    }
+]

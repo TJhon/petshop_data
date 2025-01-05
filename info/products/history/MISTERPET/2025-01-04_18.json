@@ -1,0 +1,421 @@
+[
+    {
+        "href": "https://www.misterpet.pe/collection/alimento-seco-para-perro",
+        "category": "Alimento Seco",
+        "type": "Perro",
+        "products_href": [
+            {
+                "href": "https://www.misterpet.pe/product/pack-naturalis-adulto-pollo-pavo-y-frutas-para-raza-pequena-10-kg-1-flores-de-bach-ansiedad-en-spray-de-regalo",
+                "last_price": 195.0,
+                "actual_price": 185.25
+            },
+            {
+                "href": "https://www.misterpet.pe/product/allkjoy-adulto-1-kg",
+                "last_price": null,
+                "actual_price": 17.0
+            },
+            {
+                "href": "https://www.misterpet.pe/product/allkjoy-cachorro-1-kg",
+                "last_price": null,
+                "actual_price": 17.0
+            },
+            {
+                "href": "https://www.misterpet.pe/product/belcando-finest-gf-lamb-1-kg",
+                "last_price": 43.5,
+                "actual_price": 41.33
+            },
+            {
+                "href": "https://www.misterpet.pe/product/belcando-puppy-gf-poultry-1-kg",
+                "last_price": 43.5,
+                "actual_price": 41.33
+            },
+            {
+                "href": "https://www.misterpet.pe/product/equilibrio-gf-alimento-para-perro-cachorro-small-breeds-1-5-kg",
+                "last_price": 59.0,
+                "actual_price": 53.1
+            },
+            {
+                "href": "https://www.misterpet.pe/product/equilibrio-gf-alimento-para-perro-senior-razas-miniaturas-1-5-kg",
+                "last_price": 62.0,
+                "actual_price": 55.8
+            },
+            {
+                "href": "https://www.misterpet.pe/product/canbo-super-premiun-adulto-cordero-razas-pequenas-3-kg",
+                "last_price": null,
+                "actual_price": 56.7
+            },
+            {
+                "href": "https://www.misterpet.pe/product/canbo-super-premiun-adulto-cordero-razas-medianas-y-grandes-3-kg",
+                "last_price": null,
+                "actual_price": 56.7
+            },
+            {
+                "href": "https://www.misterpet.pe/product/brit-premium-by-nature-adult-medium-3-kg",
+                "last_price": null,
+                "actual_price": 59.0
+            },
+            {
+                "href": "https://www.misterpet.pe/product/ducca-adulto-raza-pequena-3-kg",
+                "last_price": null,
+                "actual_price": 60.0
+            },
+            {
+                "href": "https://www.misterpet.pe/product/ducca-adulto-3-kg",
+                "last_price": null,
+                "actual_price": 60.0
+            },
+            {
+                "href": "https://www.misterpet.pe/product/canbo-super-premiun-cachorro-cordero-razas-medianas-y-grandes-3-kg",
+                "last_price": null,
+                "actual_price": 61.9
+            },
+            {
+                "href": "https://www.misterpet.pe/product/brit-premium-by-nature-junior-small-3-kg",
+                "last_price": null,
+                "actual_price": 64.0
+            },
+            {
+                "href": "https://www.misterpet.pe/product/brit-premium-by-nature-junior-medium-3-kg",
+                "last_price": null,
+                "actual_price": 64.0
+            },
+            {
+                "href": "https://www.misterpet.pe/product/brit-premium-by-nature-adult-small-3-kg",
+                "last_price": null,
+                "actual_price": 64.0
+            },
+            {
+                "href": "https://www.misterpet.pe/product/equilibrio-alimento-para-perro-adulto-indoor-small-breeds-2-kg",
+                "last_price": 72.0,
+                "actual_price": 64.8
+            },
+            {
+                "href": "https://www.misterpet.pe/product/ducca-cachorro-3-kg",
+                "last_price": null,
+                "actual_price": 65.0
+            }
+        ]
+    },
+    {
+        "href": "https://www.misterpet.pe/collection/alimento-humedo-para-perro",
+        "category": "Alimento Humedo",
+        "type": "Perro",
+        "products_href": [
+            {
+                "href": "https://www.misterpet.pe/product/mimma-carnitas-trocitos-en-salsa-cerdo-salmon-100-gr",
+                "last_price": null,
+                "actual_price": 5.35
+            },
+            {
+                "href": "https://www.misterpet.pe/product/mimma-carnitas-trocitos-en-salsa-pavo-ternera-100-gr",
+                "last_price": null,
+                "actual_price": 5.35
+            },
+            {
+                "href": "https://www.misterpet.pe/product/monge-canine-adulto-grill-cerdo-sobre-100-gr",
+                "last_price": 6.0,
+                "actual_price": 5.4
+            },
+            {
+                "href": "https://www.misterpet.pe/product/monge-canine-fruit-cerdo-y-pina-alutray-100-gr",
+                "last_price": 7.0,
+                "actual_price": 6.3
+            },
+            {
+                "href": "https://www.misterpet.pe/product/monge-canine-fruit-cordero-y-manzana-alutray-100-gr",
+                "last_price": 7.0,
+                "actual_price": 6.3
+            },
+            {
+                "href": "https://www.misterpet.pe/product/monge-canine-fruit-pato-y-naranja-alutray-100-gr",
+                "last_price": 7.0,
+                "actual_price": 6.3
+            },
+            {
+                "href": "https://www.misterpet.pe/product/monge-canine-fruit-salmon-y-pera-alutray-100-gr",
+                "last_price": 7.0,
+                "actual_price": 6.3
+            },
+            {
+                "href": "https://www.misterpet.pe/product/monge-canine-fruit-pavo-y-arandanos-alutray-100-gr",
+                "last_price": 7.0,
+                "actual_price": 6.3
+            },
+            {
+                "href": "https://www.misterpet.pe/product/monge-canine-adult-monoprotein-cordero-150-gr",
+                "last_price": 9.5,
+                "actual_price": 8.55
+            },
+            {
+                "href": "https://www.misterpet.pe/product/brit-premium-by-nature-adult-medium-3-kg",
+                "last_price": null,
+                "actual_price": 59.0
+            },
+            {
+                "href": "https://www.misterpet.pe/product/ducca-adulto-raza-pequena-3-kg",
+                "last_price": null,
+                "actual_price": 60.0
+            },
+            {
+                "href": "https://www.misterpet.pe/product/ducca-adulto-3-kg",
+                "last_price": null,
+                "actual_price": 60.0
+            },
+            {
+                "href": "https://www.misterpet.pe/product/canbo-super-premiun-cachorro-cordero-razas-medianas-y-grandes-3-kg",
+                "last_price": null,
+                "actual_price": 61.9
+            },
+            {
+                "href": "https://www.misterpet.pe/product/brit-premium-by-nature-junior-small-3-kg",
+                "last_price": null,
+                "actual_price": 64.0
+            },
+            {
+                "href": "https://www.misterpet.pe/product/brit-premium-by-nature-junior-medium-3-kg",
+                "last_price": null,
+                "actual_price": 64.0
+            },
+            {
+                "href": "https://www.misterpet.pe/product/brit-premium-by-nature-adult-small-3-kg",
+                "last_price": null,
+                "actual_price": 64.0
+            },
+            {
+                "href": "https://www.misterpet.pe/product/equilibrio-alimento-para-perro-adulto-indoor-small-breeds-2-kg",
+                "last_price": 72.0,
+                "actual_price": 64.8
+            },
+            {
+                "href": "https://www.misterpet.pe/product/ducca-cachorro-3-kg",
+                "last_price": null,
+                "actual_price": 65.0
+            }
+        ]
+    },
+    {
+        "href": "https://www.misterpet.pe/collection/alimento-seco-medicado-para-perro",
+        "category": "Alimento  Seco Medicado",
+        "type": "Perro"
+    },
+    {
+        "href": "https://www.misterpet.pe/collection/alimento-humedo-medicado-para-perro",
+        "category": "Alimento Humedo Medicado",
+        "type": "Perro"
+    },
+    {
+        "href": "https://www.misterpet.pe/collection/alimento-barf-perro",
+        "category": "Alimento Barf",
+        "type": "Perro"
+    },
+    {
+        "href": "https://www.misterpet.pe/collection/snack-para-perro",
+        "category": "Snacks",
+        "type": "Perro"
+    },
+    {
+        "href": "https://www.misterpet.pe/collection/antipulga-para-perro",
+        "category": "Antipulgas",
+        "type": "Perro"
+    },
+    {
+        "href": "https://www.misterpet.pe/collection/antiparasitario-para-perro",
+        "category": "Antiparasitario",
+        "type": "Perro"
+    },
+    {
+        "href": "https://www.misterpet.pe/collection/shampoo-para-perro",
+        "category": "Shampoo",
+        "type": "Perro"
+    },
+    {
+        "href": "https://www.misterpet.pe/collection/panales-para-perro",
+        "category": "Pa\u00f1ales",
+        "type": "Perro"
+    },
+    {
+        "href": "https://www.misterpet.pe/collection/limpieza-y-aseo-para-perro",
+        "category": "Limpieza y Aseo",
+        "type": "Perro"
+    },
+    {
+        "href": "https://www.misterpet.pe/collection/vitaminas-y-suplemento-para-perro",
+        "category": "Vitaminas y Suplemento",
+        "type": "Perro"
+    },
+    {
+        "href": "https://www.misterpet.pe/collection/medicinas-perro",
+        "category": "Medicinas",
+        "type": "Perro"
+    },
+    {
+        "href": "https://www.misterpet.pe/collection/juguete-para-perro",
+        "category": "Juguetes",
+        "type": "Perro"
+    },
+    {
+        "href": "https://www.misterpet.pe/collection/arnes-para-perro",
+        "category": "Arnes",
+        "type": "Perro"
+    },
+    {
+        "href": "https://www.misterpet.pe/collection/fajas-para-perro",
+        "category": "Fajas",
+        "type": "Perro"
+    },
+    {
+        "href": "https://www.misterpet.pe/collection/collares",
+        "category": "Collares",
+        "type": "Perro"
+    },
+    {
+        "href": "https://www.misterpet.pe/collection/cama-para-perro",
+        "category": "Camas",
+        "type": "Perro"
+    },
+    {
+        "href": "https://www.misterpet.pe/collection/platos-y-bebederos-perro",
+        "category": "Platos y Bebederos",
+        "type": "Perro"
+    },
+    {
+        "href": "https://www.misterpet.pe/collection/bozales",
+        "category": "Bozales",
+        "type": "Perro"
+    },
+    {
+        "href": "https://www.misterpet.pe/collection/transportadores",
+        "category": "Transportadores",
+        "type": "Perro"
+    },
+    {
+        "href": "https://www.misterpet.pe/collection/alimento-seco-para-gato",
+        "category": "Alimento Seco",
+        "type": "Gato"
+    },
+    {
+        "href": "https://www.misterpet.pe/collection/alimento-humedo-para-gato",
+        "category": "Alimento Humedo",
+        "type": "Gato"
+    },
+    {
+        "href": "https://www.misterpet.pe/collection/alimento-seco-medicado-para-gato",
+        "category": "Alimento Seco Medicado",
+        "type": "Gato"
+    },
+    {
+        "href": "https://www.misterpet.pe/collection/alimento-humedo-medicado-para-gato",
+        "category": "Alimento Humedo Medicado",
+        "type": "Gato"
+    },
+    {
+        "href": "https://www.misterpet.pe/collection/snack-para-gato",
+        "category": "Snacks",
+        "type": "Gato"
+    },
+    {
+        "href": "https://www.misterpet.pe/collection/alimento-barf-gato",
+        "category": "Alimento Barf",
+        "type": "Gato"
+    },
+    {
+        "href": "https://www.misterpet.pe/collection/antipulga-para-gato",
+        "category": "Antipulgas",
+        "type": "Gato"
+    },
+    {
+        "href": "https://www.misterpet.pe/collection/shampoo-para-gato",
+        "category": "Shampoo",
+        "type": "Gato"
+    },
+    {
+        "href": "https://www.misterpet.pe/collection/arena-para-gato",
+        "category": "Arena",
+        "type": "Gato"
+    },
+    {
+        "href": "https://www.misterpet.pe/collection/limpieza-y-aseo-para-gato",
+        "category": "Limpieza y Aseo",
+        "type": "Gato"
+    },
+    {
+        "href": "https://www.misterpet.pe/collection/vitaminas-y-suplemento-para-gato",
+        "category": "Vitaminas y Suplemento",
+        "type": "Gato"
+    },
+    {
+        "href": "https://www.misterpet.pe/collection/medicinas-gato",
+        "category": "Medicinas",
+        "type": "Gato"
+    },
+    {
+        "href": "https://www.misterpet.pe/collection/arnes-para-gato",
+        "category": "Arnes",
+        "type": "Gato"
+    },
+    {
+        "href": "https://www.misterpet.pe/collection/fajas-para-gato",
+        "category": "Fajas",
+        "type": "Gato"
+    },
+    {
+        "href": "https://www.misterpet.pe/collection/juguete-para-gato",
+        "category": "Juguetes",
+        "type": "Gato"
+    },
+    {
+        "href": "https://www.misterpet.pe/collection/cama-para-gato",
+        "category": "Camas",
+        "type": "Gato"
+    },
+    {
+        "href": "https://www.misterpet.pe/collection/platos-y-bebederos-gatos",
+        "category": "Platos y Bebederos",
+        "type": "Gato"
+    },
+    {
+        "href": "https://www.misterpet.pe/collection/rascadores",
+        "category": "Rascadores",
+        "type": "Gato"
+    },
+    {
+        "href": "https://www.misterpet.pe/collection/areneros",
+        "category": "Areneros",
+        "type": "Gato"
+    },
+    {
+        "href": "https://www.misterpet.pe/collection/transportadores",
+        "category": "Transportadores",
+        "type": "Gato"
+    },
+    {
+        "href": "https://www.misterpet.pe/collection/alimento-seco-para-conejo",
+        "category": "Alimento Seco para Conejo",
+        "type": "Otros"
+    },
+    {
+        "href": "https://www.misterpet.pe/collection/alimento-seco-para-hanster",
+        "category": "Alimento Seco para Hanster",
+        "type": "Otros"
+    },
+    {
+        "href": "https://www.misterpet.pe/collection/snack-para-conejo",
+        "category": "Snack para Conejo",
+        "type": "Otros"
+    },
+    {
+        "href": "https://www.misterpet.pe/collection/snack-para-hanster",
+        "category": "Snack para Hanster",
+        "type": "Otros"
+    },
+    {
+        "href": "https://www.misterpet.pe/collection/regalos-especiales",
+        "category": "Regalos Especiales",
+        "type": ""
+    },
+    {
+        "href": "https://www.misterpet.pe/collection/productos-con-descuento-por-vencimiento-corto",
+        "category": "Productos en Remate",
+        "type": ""
+    }
+]

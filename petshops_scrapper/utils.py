@@ -63,3 +63,7 @@ def load_json_menu(name="", path = "info/{type}/last", type="menu"):
     with open(os.path.join(path, name + ".json")) as f:
         data = json.load(f)
     return data
+def exists_products(name="", path = "info/{type}/last", type="products"):
+    path = path.format(type=type)
+    file = os.path.join(path, name + ".json")
+    return os.path.exists(file)

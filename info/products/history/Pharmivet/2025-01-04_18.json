@@ -1,0 +1,134 @@
+[
+    {
+        "type": "medicamentos",
+        "href": "https://pharmivet.pe/94-medicamentos",
+        "products_href": [
+            "https://pharmivet.pe/medicamentos/747-tramadol-50-mg-x-50-ml-8130110005.html",
+            "https://pharmivet.pe/medicamentos/611-ranitidina-jhon-martin-x-50-ml-8130111001.html",
+            "https://pharmivet.pe/hormonales/591-promazil-gotas-x-15-ml-8080112002.html",
+            "https://pharmivet.pe/antianemicos/573-pileran-x-20-ml-gotas-8670109001.html",
+            "https://pharmivet.pe/promocion/523-hepatin-pasta-x-60-ml-8011307036.html",
+            "https://pharmivet.pe/vitaminas/521-hemolitan-pet-x-30-tab-8240102016.html",
+            "https://pharmivet.pe/medicamentos/482-equigan-x-10-ml-8230106001.html",
+            "https://pharmivet.pe/antibioticos/442-ciclocell-2-x-5-ml-8360104005.html",
+            "https://pharmivet.pe/medicamentos/416-artrosamine-x-60-tab-8030113007.html",
+            "https://pharmivet.pe/anestesicos/413-anestina-x-100-ml-8380101001.html",
+            "https://pharmivet.pe/cicatrizantes/411-aluspray-x-210-ml-8130108001.html",
+            "https://pharmivet.pe/antibioticos/390-otolog-x-25-ml-8010103021.html",
+            "https://pharmivet.pe/antiparasitarios/389-desparasitante-fripets-x-50-tab-8080105001.html",
+            "https://pharmivet.pe/medicamentos/388-bio-c-x-100-ml-8010107003.html",
+            "https://pharmivet.pe/medicamentos/1141-tramadol-john-martin-75-mg-x-caja-8130110004.html",
+            "https://pharmivet.pe/antianemicos/678-welvet-jarabe-x-120-ml-8560102001.html",
+            "https://pharmivet.pe/promocion/667-trihepat-x-100-ml-8131307014.html",
+            "https://pharmivet.pe/medicamentos/666-tranquilis-gotas-x-15-ml-8010112004.html",
+            "https://pharmivet.pe/hormonales/592-promazil-iny-x-50-ml-8080101030.html",
+            "https://pharmivet.pe/antianemicos/574-pileran-x-50-ml-inyectable-8670109002.html",
+            "https://pharmivet.pe/antiinflamatorios/519-glucortin--20-x-50-ml-8340104001.html",
+            "https://pharmivet.pe/medicamentos/439-cascol-x-120-ml-8040108001.html",
+            "https://pharmivet.pe/vitaminas/401-aceite-de-germen-de-trigo-x-50-ml-8230107001.html",
+            "https://pharmivet.pe/medicamentos/397-5-x-1-vacuno-dorado-x-500-ml-8010105004.html",
+            "https://pharmivet.pe/medicamentos/396-sulfatrim-x-100-ml-8010103008.html",
+            "https://pharmivet.pe/medicamentos/942-laxdrag-x-90-gr-8170111001.html",
+            "https://pharmivet.pe/suplementos/869-hepadol-x-60-comp-8361307004.html",
+            "https://pharmivet.pe/gatos/809-hematolic-x-30-ml-8010102040.html",
+            "https://pharmivet.pe/vitaminas/738-colageno-hidrolizado-x-30-tab-8400113027.html",
+            "https://pharmivet.pe/antiinflamatorios/530-labyderm-bioforce-spray-x-100-ml-8130104001.html",
+            "https://pharmivet.pe/antiparasitarios/518-glaucovet-1-x-5-ml-8360114008.html",
+            "https://pharmivet.pe/medicamentos/486-estrovet-x-50-ml-8080106001.html",
+            "https://pharmivet.pe/medicamentos/456-curabichera-kerkus-plata-x-400-ml-8030108001.html",
+            "https://pharmivet.pe/antibioticos/414-antibacteriano-cesteroides-love-x-10-ml-8360103016.html",
+            "https://pharmivet.pe/antiparasitarios/407-biomisil-01-x-20-ml-8010105008.html",
+            "https://pharmivet.pe/vitaminas/403-adrena-vida-x-50-ml-8030107003.html",
+            "https://pharmivet.pe/anestesicos/1279-calmacan-x-128-gr-8400112001.html",
+            "https://pharmivet.pe/vitaminas/1085-hemolitan-pet-x-60-ml-8240102009.html",
+            "https://pharmivet.pe/medicamentos/946-flores-de-bach-ansiedad-x-30-ml-8670101002.html",
+            "https://pharmivet.pe/medicamentos/861-geriax-x-30tab-8010113042.html"
+        ]
+    },
+    {
+        "type": "alimentos",
+        "href": "https://pharmivet.pe/95-alimentos",
+        "products_href": [
+            "https://pharmivet.pe/alimentos/770-snack-de-salmon-odog-x-100-gr-8650304003.html",
+            "https://pharmivet.pe/alimentos/769-snack-de-cordero-odog-x-100-gr-8650303001.html",
+            "https://pharmivet.pe/alimentos/536-leche-maternizada-sustile-x-400-gr-8990301001.html",
+            "https://pharmivet.pe/alimentos-medicados/402-hill_s-pd-ad-canine-feline-x-55-oz--cuidado-urgente-x-156-gr-8240305001.html",
+            "https://pharmivet.pe/alimentos/862-sazonador-barker-bazo-y-bofe-x-80-gr-8680303054.html",
+            "https://pharmivet.pe/alimentos/594-proplan-active-mind-small-breed-x-3-kg-8220301009.html",
+            "https://pharmivet.pe/alimentos/432-hill_s-canine-id-chicken-_-vegetales-x-125-oz-x-354-gr-8240305037.html",
+            "https://pharmivet.pe/alimentos/431-hill_s-canine-id-85-lb-x-385-kg-8240302008.html",
+            "https://pharmivet.pe/alimentos/863-sazonador-barker-pollo-y-mollejas-x-70-gr-8680303055.html",
+            "https://pharmivet.pe/adulto/595-proplan-adult-cat-7x-3-kg-8220301006.html",
+            "https://pharmivet.pe/promocion/434-hill_s-canine-ld-x-798-kg-8240302014.html",
+            "https://pharmivet.pe/alimentos/433-hill_s-pd-canine-kd-pollo-13-oz--cuidado-de-rinon-36854-gr-8240305010.html",
+            "https://pharmivet.pe/alimentos/864-sazonador-barker-higado-de-res-x-90-gr-8680303056.html",
+            "https://pharmivet.pe/adulto/596-proplan-adult-cat-x-3-kg-8220301017.html",
+            "https://pharmivet.pe/alimentos/437-hill_s-canine-wd-x-13-oz-8240305022.html",
+            "https://pharmivet.pe/alimentos/435-hill_s-canine-rd-dry-x-385-kg-8240302018.html",
+            "https://pharmivet.pe/adulto/1210-barker-hamburguesa-gato-de-pollo-x-500-gr-8680306030.html",
+            "https://pharmivet.pe/adulto/597-proplan-adulto-exigent-x-3-kg-8220301002.html",
+            "https://pharmivet.pe/alimentos/951-snack-carnitas-tradicional-x-100-gr-8140303003.html",
+            "https://pharmivet.pe/adulto/598-proplan-adulto-raza-pequena-x-3-kg-8220301003.html",
+            "https://pharmivet.pe/alimentos/438-hill_s-canine-wd-x-385-kg-8240302023.html",
+            "https://pharmivet.pe/alimentos/1193-barker-hamburguesa-carne-de-res-1-kg-x-20-und-8680306017.html",
+            "https://pharmivet.pe/alimentos/790-barker-bones-large-x-450-gr-8680304026.html",
+            "https://pharmivet.pe/alimentos-no-medicados/599-proplan-kitten-x-3-kg-8220301019.html",
+            "https://pharmivet.pe/alimentos-medicados/490-hill_s-feline-cd-multicare-seafood-55-oz-x-156-gr-8240305027.html",
+            "https://pharmivet.pe/alimentos-medicados/489-hill_s-pd-feline-cd-multicare-4lb-x-18-kg--cuidado-urinario--multicuidado-8240302026.html",
+            "https://pharmivet.pe/alimentos/959-snack-chewy-toys-raza-mini-y-pequena--x-65-gr-8140303006.html",
+            "https://pharmivet.pe/alimentos-medicados/492-hill_s-pd-feline-kd-55-oz--cuidado-de-rinon-x-156-gr-8240305029.html",
+            "https://pharmivet.pe/alimentos-medicados/491-hill_s-feline-id-dry-x-1800-kg-8240302028.html",
+            "https://pharmivet.pe/adulto/601-proplan-adulto-raza-mediana-x-3-kg-8220301008.html",
+            "https://pharmivet.pe/alimentos-medicados/493-hill_s-feline-kd-dry-x-18-kg-8240302030.html",
+            "https://pharmivet.pe/cachorro/602-proplan-puppy-small-breed-x-3-kg-8220301024.html",
+            "https://pharmivet.pe/alimentos-medicados/494-hill_s-feline-rd-dry-4-lb-18k-8240302033.html",
+            "https://pharmivet.pe/alimentos/603-proplan-sensitive-raza-med-x-3-kg-8220301014.html",
+            "https://pharmivet.pe/alimentos/559-hill_s-pd-canine-cd-multicare-x-3900-kg-8240302036.html",
+            "https://pharmivet.pe/alimentos/525-hill_s-id-canine-13-oz-x-356-gr-8240305005.html",
+            "https://pharmivet.pe/alimentos/604-proplan-sensitive-small-breed-x-3-kg-8220301020.html",
+            "https://pharmivet.pe/alimentos/564-hill_s-pd-canine-metabolic-lata-13-0z-8240305017.html",
+            "https://pharmivet.pe/alimentos/560-hill_s-pd-canine-id-low-fat-13-oz-x-370-gr-8240302006.html",
+            "https://pharmivet.pe/adulto/625-hill_s-sd-canine-adult-gourmet-chicken_barleyentree-x13-oz-8240305003.html"
+        ]
+    },
+    {
+        "type": "suplementos",
+        "href": "https://pharmivet.pe/96-suplementos"
+    },
+    {
+        "type": "antipulgas",
+        "href": "https://pharmivet.pe/97-antipulgas"
+    },
+    {
+        "type": "oculares",
+        "href": "https://pharmivet.pe/98-oculares"
+    },
+    {
+        "type": "cardiologicos",
+        "href": "https://pharmivet.pe/99-cardiologicos"
+    },
+    {
+        "type": "oticos",
+        "href": "https://pharmivet.pe/101-oticos"
+    },
+    {
+        "type": "higiene_cuidado",
+        "href": "https://pharmivet.pe/102-higiene-y-cuidado"
+    },
+    {
+        "type": "perros",
+        "href": "https://pharmivet.pe/136-perros"
+    },
+    {
+        "type": "gatos",
+        "href": "https://pharmivet.pe/137-gatos"
+    },
+    {
+        "type": "promocion",
+        "href": "https://pharmivet.pe/215-promocion"
+    },
+    {
+        "type": "ultimas_unidades",
+        "href": "https://pharmivet.pe/230-ultimas-unidades"
+    }
+]
