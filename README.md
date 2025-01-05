@@ -1,8 +1,6 @@
 
 
-Aquí tienes una versión mejorada de tu README:
 
----
 
 # petshop_data
 
