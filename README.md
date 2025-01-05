@@ -9,7 +9,7 @@
 - **Python** >= 3.12
 - **Poetry** para la gestión de dependencias
 - **Git**: [Instalacion](https://www.youtube.com/watch?v=jdXKwLNUfmg)
-- **vscode**: 
+- **vscode**: Opcional 
 
 
 
@@ -26,6 +26,8 @@
    ```sh
    poetry install --no-root
    ```
+
+
 
 ## Configuración
 
@@ -50,6 +52,7 @@ Dentro del archivo `main.py`, hay dos constantes clave para personalizar el comp
    ```sh
    python main.py
    ```
+
 
 3. Una vez completada la ejecución, los datos se guardarán en la carpeta `raw_data/{name}.xlsx`, donde `{name}` corresponde al nombre comercial de la página procesada.
 
