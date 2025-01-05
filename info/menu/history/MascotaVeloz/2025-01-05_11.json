@@ -1,0 +1,532 @@
+[
+    {
+        "href": "https://mascotaveloz.pe/perros/alimento-perros/alimento-seco-alimento-perros/",
+        "type": "perros",
+        "category": "Alimento Seco"
+    },
+    {
+        "href": "https://mascotaveloz.pe/perros/alimento-perros/alimento-humedo-alimento-perros/",
+        "type": "perros",
+        "category": "Alimento Humedo"
+    },
+    {
+        "href": "https://mascotaveloz.pe/perros/alimento-perros/alimento-barf-alimento-perros/",
+        "type": "perros",
+        "category": "Alimento Barf"
+    },
+    {
+        "href": "https://mascotaveloz.pe/perros/alimento-perros/toppings-alimento-perros/",
+        "type": "perros",
+        "category": "Toppings"
+    },
+    {
+        "href": "https://mascotaveloz.pe/perros/alimento-perros/snacks-alimento-perros/",
+        "type": "perros",
+        "category": "Snacks"
+    },
+    {
+        "href": "https://mascotaveloz.pe/perros/alimento-perros/formula-alimento-perros/",
+        "type": "perros",
+        "category": "Formula"
+    },
+    {
+        "href": "https://mascotaveloz.pe/perros/alimento-prescripcion-perros/alimento-prescripcion-seco-alimento-prescripcion-perros/",
+        "type": "perros",
+        "category": "Alimento Prescripcion Seco"
+    },
+    {
+        "href": "https://mascotaveloz.pe/perros/alimento-prescripcion-perros/alimento-prescripcion-humedo-alimento-prescripcion-perros/",
+        "type": "perros",
+        "category": "Alimento Prescripcion Humedo"
+    },
+    {
+        "href": "https://mascotaveloz.pe/perros/alimento-prescripcion-perros/prescripcion-snacks-alimento-prescripcion-perros/",
+        "type": "perros",
+        "category": "Prescripcion Snacks"
+    },
+    {
+        "href": "https://mascotaveloz.pe/perros/accesorios-y-otros-perros/bebederos/",
+        "type": "perros",
+        "category": "Bebederos"
+    },
+    {
+        "href": "https://mascotaveloz.pe/perros/accesorios-y-otros-perros/comederos-accesorios-y-otros-perros/",
+        "type": "perros",
+        "category": "Comederos"
+    },
+    {
+        "href": "https://mascotaveloz.pe/perros/accesorios-y-otros-perros/collares-y-correas-accesorios-y-otros-perros/",
+        "type": "perros",
+        "category": "Collares Y Correas"
+    },
+    {
+        "href": "https://mascotaveloz.pe/perros/accesorios-y-otros-perros/ropa-accesorios-y-otros-perros/",
+        "type": "perros",
+        "category": "Ropa"
+    },
+    {
+        "href": "https://mascotaveloz.pe/perros/accesorios-y-otros-perros/juguetes-accesorios-y-otros-perros/",
+        "type": "perros",
+        "category": "Juguetes"
+    },
+    {
+        "href": "https://mascotaveloz.pe/perros/accesorios-y-otros-perros/transportadores/",
+        "type": "perros",
+        "category": "Transportadores"
+    },
+    {
+        "href": "https://mascotaveloz.pe/perros/accesorios-y-otros-perros/camas/",
+        "type": "perros",
+        "category": "Camas"
+    },
+    {
+        "href": "https://mascotaveloz.pe/perros/accesorios-y-otros-perros/casas/",
+        "type": "perros",
+        "category": "Casas"
+    },
+    {
+        "href": "https://mascotaveloz.pe/perros/accesorios-y-otros-perros/otros-accesorios-perros/",
+        "type": "perros",
+        "category": "Otros"
+    },
+    {
+        "href": "https://mascotaveloz.pe/perros/cuidado-e-higiene-perros/antiparasitarios-cuidado-e-higiene-perros/",
+        "type": "perros",
+        "category": "Antiparasitarios"
+    },
+    {
+        "href": "https://mascotaveloz.pe/perros/cuidado-e-higiene-perros/antipulgas-cuidado-e-higiene-perros/",
+        "type": "perros",
+        "category": "Antipulgas"
+    },
+    {
+        "href": "https://mascotaveloz.pe/perros/cuidado-e-higiene-perros/bolsas-para-heces-cuidado-e-higiene-perros/",
+        "type": "perros",
+        "category": "Bolsas Para Heces"
+    },
+    {
+        "href": "https://mascotaveloz.pe/perros/cuidado-e-higiene-perros/entrenamiento-cuidado-e-higiene-perros/",
+        "type": "perros",
+        "category": "Entrenamiento"
+    },
+    {
+        "href": "https://mascotaveloz.pe/perros/cuidado-e-higiene-perros/panales-adultos-cuidado-e-higiene-perros/",
+        "type": "perros",
+        "category": "Pa\u00f1ales Adultos"
+    },
+    {
+        "href": "https://mascotaveloz.pe/perros/cuidado-e-higiene-perros/corta-unas-cuidado-e-higiene-perros/",
+        "type": "perros",
+        "category": "Corta U\u00f1as"
+    },
+    {
+        "href": "https://mascotaveloz.pe/perros/cuidado-e-higiene-perros/peines-y-cepillos-cuidado-e-higiene-perros/",
+        "type": "perros",
+        "category": "Peines Y Cepillos"
+    },
+    {
+        "href": "https://mascotaveloz.pe/perros/cuidado-e-higiene-perros/fragancias-cuidado-e-higiene-perros/",
+        "type": "perros",
+        "category": "Fragancias"
+    },
+    {
+        "href": "https://mascotaveloz.pe/perros/cuidado-e-higiene-perros/shampoos-cuidado-e-higiene-perros/",
+        "type": "perros",
+        "category": "Shampoos"
+    },
+    {
+        "href": "https://mascotaveloz.pe/perros/cuidado-e-higiene-perros/shampoos-medicados-cuidado-e-higiene-perros/",
+        "type": "perros",
+        "category": "Shampoos Medicados"
+    },
+    {
+        "href": "https://mascotaveloz.pe/perros/cuidado-e-higiene-perros/higiene-bucal-cuidado-e-higiene-perros/",
+        "type": "perros",
+        "category": "Higiene Bucal"
+    },
+    {
+        "href": "https://mascotaveloz.pe/perros/cuidado-e-higiene-perros/sprays-y-otros-cuidado-e-higiene-perros/",
+        "type": "perros",
+        "category": "Sprays Y Otros"
+    },
+    {
+        "href": "https://mascotaveloz.pe/perros/vitaminas-y-suplementos/piel-y-pelo/",
+        "type": "perros",
+        "category": "Piel Y Pelo"
+    },
+    {
+        "href": "https://mascotaveloz.pe/perros/vitaminas-y-suplementos/suplementos-vitaminas-y-suplementos/",
+        "type": "perros",
+        "category": "Suplementos"
+    },
+    {
+        "href": "https://mascotaveloz.pe/perros/vitaminas-y-suplementos/vitaminas-vitaminas-y-suplementos/",
+        "type": "perros",
+        "category": "Vitaminas"
+    },
+    {
+        "href": "https://mascotaveloz.pe/perros/vitaminas-y-suplementos/antianemico/",
+        "type": "perros",
+        "category": "Antianemico"
+    },
+    {
+        "href": "https://mascotaveloz.pe/perros/vitaminas-y-suplementos/rehidratantes/",
+        "type": "perros",
+        "category": "Rehidratantes"
+    },
+    {
+        "href": "https://mascotaveloz.pe/perros/vitaminas-y-suplementos/naturales-vitaminas-y-suplementos/",
+        "type": "perros",
+        "category": "Naturales"
+    },
+    {
+        "href": "https://mascotaveloz.pe/perros/farmacia/analgesicos/",
+        "type": "perros",
+        "category": "Analgesicos"
+    },
+    {
+        "href": "https://mascotaveloz.pe/perros/farmacia/antiinflamatorios-farmacia/",
+        "type": "perros",
+        "category": "Antiinflamatorios"
+    },
+    {
+        "href": "https://mascotaveloz.pe/perros/farmacia/antibioticos-y-antimicoticos-farmacia-perros/",
+        "type": "perros",
+        "category": "Antibioticos Y Antimicoticos"
+    },
+    {
+        "href": "https://mascotaveloz.pe/perros/farmacia/antisepticos-y-cicatrizantes/",
+        "type": "perros",
+        "category": "Antisepticos Y Cicatrizantes"
+    },
+    {
+        "href": "https://mascotaveloz.pe/perros/farmacia/cardiovasculares-farmacia-perros/",
+        "type": "perros",
+        "category": "Cardiovasculares"
+    },
+    {
+        "href": "https://mascotaveloz.pe/perros/farmacia/dermatologicos-farmacia-perros/",
+        "type": "perros",
+        "category": "Dermatologicos"
+    },
+    {
+        "href": "https://mascotaveloz.pe/perros/farmacia/gastrointestinales-farmacia-perros/",
+        "type": "perros",
+        "category": "Gastrointestinales"
+    },
+    {
+        "href": "https://mascotaveloz.pe/perros/farmacia/oftalmicos-farmacia-perros/",
+        "type": "perros",
+        "category": "Oftalmicos"
+    },
+    {
+        "href": "https://mascotaveloz.pe/perros/farmacia/oticos-farmacia-perros/",
+        "type": "perros",
+        "category": "Oticos"
+    },
+    {
+        "href": "https://mascotaveloz.pe/perros/farmacia/protectores-hepaticos-farmacia-perros/",
+        "type": "perros",
+        "category": "Protectores Hepaticos"
+    },
+    {
+        "href": "https://mascotaveloz.pe/perros/farmacia/otros-farmacia/",
+        "type": "perros",
+        "category": "Otros"
+    },
+    {
+        "href": "https://mascotaveloz.pe/gatos/alimento-gatos/alimento-seco-alimento-gatos/",
+        "type": "gatos",
+        "category": "Alimento Seco"
+    },
+    {
+        "href": "https://mascotaveloz.pe/gatos/alimento-gatos/alimento-humedo-alimento-gatos/",
+        "type": "gatos",
+        "category": "Alimento Humedo"
+    },
+    {
+        "href": "https://mascotaveloz.pe/gatos/alimento-gatos/alimento-barf/",
+        "type": "gatos",
+        "category": "Alimento Barf"
+    },
+    {
+        "href": "https://mascotaveloz.pe/gatos/alimento-gatos/snacks/",
+        "type": "gatos",
+        "category": "Snacks"
+    },
+    {
+        "href": "https://mascotaveloz.pe/gatos/alimento-gatos/formula-alimento-gatos/",
+        "type": "gatos",
+        "category": "Formula"
+    },
+    {
+        "href": "https://mascotaveloz.pe/gatos/alimento-prescripcion/alimento-prescripcion-seco/",
+        "type": "gatos",
+        "category": "Alimento Prescripcion Seco"
+    },
+    {
+        "href": "https://mascotaveloz.pe/gatos/alimento-prescripcion/alimento-prescripcion-humedo-alimento-prescripcion/",
+        "type": "gatos",
+        "category": "Alimento Prescripcion Humedo"
+    },
+    {
+        "href": "https://mascotaveloz.pe/gatos/accesorios-y-otros/bebederos-accesorios-y-otros/",
+        "type": "gatos",
+        "category": "Bebederos"
+    },
+    {
+        "href": "https://mascotaveloz.pe/gatos/accesorios-y-otros/comederos-accesorios-y-otros/",
+        "type": "gatos",
+        "category": "Comederos"
+    },
+    {
+        "href": "https://mascotaveloz.pe/gatos/accesorios-y-otros/collares-accesorios-y-otros-gatos/",
+        "type": "gatos",
+        "category": "Collares"
+    },
+    {
+        "href": "https://mascotaveloz.pe/gatos/accesorios-y-otros/juguetes-y-catnip-accesorios-y-otros-gatos/",
+        "type": "gatos",
+        "category": "Juguetes Y Catnip"
+    },
+    {
+        "href": "https://mascotaveloz.pe/gatos/accesorios-y-otros/rascadores-accesorios-y-otros-gatos/",
+        "type": "gatos",
+        "category": "Rascadores"
+    },
+    {
+        "href": "https://mascotaveloz.pe/gatos/accesorios-y-otros/casas-accesorios-y-otros/",
+        "type": "gatos",
+        "category": "Casas"
+    },
+    {
+        "href": "https://mascotaveloz.pe/gatos/accesorios-y-otros/transportadores-accesorios-y-otros/",
+        "type": "gatos",
+        "category": "Transportadores"
+    },
+    {
+        "href": "https://mascotaveloz.pe/gatos/accesorios-y-otros/camas-accesorios-y-otros/",
+        "type": "gatos",
+        "category": "Camas"
+    },
+    {
+        "href": "https://mascotaveloz.pe/gatos/accesorios-y-otros/otros-accesorios-y-otros/",
+        "type": "gatos",
+        "category": "Otros"
+    },
+    {
+        "href": "https://mascotaveloz.pe/gatos/cuidado-e-higiene-gatos/antiparasitarios-cuidado-e-higiene-gatos/",
+        "type": "gatos",
+        "category": "Antiparasitarios"
+    },
+    {
+        "href": "https://mascotaveloz.pe/gatos/cuidado-e-higiene-gatos/antipulgas/",
+        "type": "gatos",
+        "category": "Antipulgas"
+    },
+    {
+        "href": "https://mascotaveloz.pe/gatos/cuidado-e-higiene-gatos/corta-unas-cuidado-e-higiene-gatos/",
+        "type": "gatos",
+        "category": "Corta U\u00f1as"
+    },
+    {
+        "href": "https://mascotaveloz.pe/gatos/cuidado-e-higiene-gatos/peines-y-cepillos-cuidado-e-higiene-gatos/",
+        "type": "gatos",
+        "category": "Peines Y Cepillos"
+    },
+    {
+        "href": "https://mascotaveloz.pe/gatos/cuidado-e-higiene-gatos/fragancias-cuidado-e-higiene-gatos/",
+        "type": "gatos",
+        "category": "Fragancias"
+    },
+    {
+        "href": "https://mascotaveloz.pe/gatos/cuidado-e-higiene-gatos/shampoos-gatos/",
+        "type": "gatos",
+        "category": "Shampoos"
+    },
+    {
+        "href": "https://mascotaveloz.pe/gatos/cuidado-e-higiene-gatos/shampoos-medicos-cuidado-e-higiene-gatos/",
+        "type": "gatos",
+        "category": "Shampoos Medicados"
+    },
+    {
+        "href": "https://mascotaveloz.pe/gatos/cuidado-e-higiene-gatos/pasta-dental-cuidado-e-higiene-gatos/",
+        "type": "gatos",
+        "category": "Higiene Bucal"
+    },
+    {
+        "href": "https://mascotaveloz.pe/gatos/cuidado-e-higiene-gatos/sprays-y-otros-cuidado-e-higiene-gatos/",
+        "type": "gatos",
+        "category": "Sprays Y Otros"
+    },
+    {
+        "href": "https://mascotaveloz.pe/gatos/arenas-y-mas/arenas-arenas-y-mas/",
+        "type": "gatos",
+        "category": "Arenas"
+    },
+    {
+        "href": "https://mascotaveloz.pe/gatos/arenas-y-mas/areneros-y-mas-arenas-y-mas-gatos/",
+        "type": "gatos",
+        "category": "Areneros Y Mas"
+    },
+    {
+        "href": "https://mascotaveloz.pe/gatos/arenas-y-mas/alfombras-arenas-y-mas/",
+        "type": "gatos",
+        "category": "Alfombras"
+    },
+    {
+        "href": "https://mascotaveloz.pe/gatos/arenas-y-mas/otros-arenas-y-mas/",
+        "type": "gatos",
+        "category": "Otros"
+    },
+    {
+        "href": "https://mascotaveloz.pe/gatos/vitaminas-y-suplementos-gatos/suplementos-vitaminas-y-suplementos-gatos/",
+        "type": "gatos",
+        "category": "Suplementos"
+    },
+    {
+        "href": "https://mascotaveloz.pe/gatos/vitaminas-y-suplementos-gatos/vitaminas-vitaminas-y-suplementos-gatos/",
+        "type": "gatos",
+        "category": "Vitaminas"
+    },
+    {
+        "href": "https://mascotaveloz.pe/gatos/vitaminas-y-suplementos-gatos/antianemico-vitaminas-y-suplementos-gatos/",
+        "type": "gatos",
+        "category": "Antianemico"
+    },
+    {
+        "href": "https://mascotaveloz.pe/gatos/vitaminas-y-suplementos-gatos/piel-y-pelo-vitaminas-y-suplementos-gatos/",
+        "type": "gatos",
+        "category": "Piel Y Pelo"
+    },
+    {
+        "href": "https://mascotaveloz.pe/gatos/vitaminas-y-suplementos-gatos/rehidratantes-vitaminas-y-suplementos-gatos/",
+        "type": "gatos",
+        "category": "Rehidratantes"
+    },
+    {
+        "href": "https://mascotaveloz.pe/gatos/vitaminas-y-suplementos-gatos/naturales-vitaminas-y-suplementos-gatos/",
+        "type": "gatos",
+        "category": "Naturales"
+    },
+    {
+        "href": "https://mascotaveloz.pe/gatos/farmacia-gatos/antiinflamatorios-farmacia-gatos/",
+        "type": "gatos",
+        "category": "Antiinflamatorios"
+    },
+    {
+        "href": "https://mascotaveloz.pe/gatos/farmacia-gatos/antibioticos-y-antimicoticos-farmacia-gatos/",
+        "type": "gatos",
+        "category": "Antibioticos Y Antimicoticos"
+    },
+    {
+        "href": "https://mascotaveloz.pe/gatos/farmacia-gatos/antisepticos-y-cicatrizantes-farmacia-gatos/",
+        "type": "gatos",
+        "category": "Antisepticos Y Cicatrizantes"
+    },
+    {
+        "href": "https://mascotaveloz.pe/gatos/farmacia-gatos/dermatologicos-farmacia-gatos/",
+        "type": "gatos",
+        "category": "Dermatologicos"
+    },
+    {
+        "href": "https://mascotaveloz.pe/gatos/farmacia-gatos/gastrointestinales-farmacia-gatos/",
+        "type": "gatos",
+        "category": "Gastrointestinales"
+    },
+    {
+        "href": "https://mascotaveloz.pe/gatos/farmacia-gatos/oftalmicos-farmacia-gatos/",
+        "type": "gatos",
+        "category": "Oftalmicos"
+    },
+    {
+        "href": "https://mascotaveloz.pe/gatos/farmacia-gatos/oticos-farmacia-gatos/",
+        "type": "gatos",
+        "category": "Oticos"
+    },
+    {
+        "href": "https://mascotaveloz.pe/gatos/farmacia-gatos/protectores-hepaticos-farmacia-gatos/",
+        "type": "gatos",
+        "category": "Protectores Hepaticos"
+    },
+    {
+        "href": "https://mascotaveloz.pe/gatos/farmacia-gatos/otros-farmacia-gatos/",
+        "type": "gatos",
+        "category": "Otros"
+    },
+    {
+        "href": "https://mascotaveloz.pe/otras-mascotas/",
+        "type": "otras-mascotas",
+        "category": "Otras Mascotas"
+    },
+    {
+        "href": "https://mascotaveloz.pe/otras-mascotas/conejos/alimento-seco-conejos/",
+        "type": "otras-mascotas",
+        "category": "Alimento Seco"
+    },
+    {
+        "href": "https://mascotaveloz.pe/otras-mascotas/hamsters/alimento-seco-hamsters/",
+        "type": "otras-mascotas",
+        "category": "Alimento Seco"
+    },
+    {
+        "href": "https://mascotaveloz.pe/pet-society/",
+        "type": "pet-society",
+        "category": "Pet Society"
+    },
+    {
+        "href": "https://mascotaveloz.pe/pet-society/para-mi/",
+        "type": "pet-society",
+        "category": "Para Mi"
+    },
+    {
+        "href": "https://mascotaveloz.pe/ki-tag/",
+        "type": "ki-tag",
+        "category": "Glam Holder"
+    },
+    {
+        "href": "https://mascotaveloz.pe/cojin-fluffi/",
+        "type": "cojin-fluffi",
+        "category": "Coj\u00edn Fluffi"
+    },
+    {
+        "href": "https://mascotaveloz.pe/mingle-cup/",
+        "type": "mingle-cup",
+        "category": "Mingle Cup"
+    },
+    {
+        "href": "https://mascotaveloz.pe/tote-bag/",
+        "type": "tote-bag",
+        "category": "Tote Bag"
+    },
+    {
+        "href": "https://mascotaveloz.pe/travel-bag/",
+        "type": "travel-bag",
+        "category": "Travel Bag"
+    },
+    {
+        "href": "https://mascotaveloz.pe/liquidaciones/",
+        "type": "liquidaciones",
+        "category": "Liquidaciones"
+    },
+    {
+        "href": "https://mascotaveloz.pe/liquidaciones/liquidaciones-alimento-seco/",
+        "type": "liquidaciones",
+        "category": "Alimento Seco"
+    },
+    {
+        "href": "https://mascotaveloz.pe/liquidaciones/liquidaciones-farmacia/",
+        "type": "liquidaciones",
+        "category": "Farmacia"
+    },
+    {
+        "href": "https://mascotaveloz.pe/liquidaciones/liquidaciones-cuidado-e-higiene/",
+        "type": "liquidaciones",
+        "category": "Cuidado E Higiene"
+    },
+    {
+        "href": "https://mascotaveloz.pe/liquidaciones/liquidaciones-promociones/",
+        "type": "liquidaciones",
+        "category": "Promociones"
+    }
+]
